@@ -64,6 +64,6 @@
 ### Footer {#footer}
 
 Github: [https://github.com/MrChanLi2013/](https://github.com/MrChanLi2013/)  
-BLog: [http://mrchanli2013.github.io/](http://mrchanli2013.github.io/)
+Blog: [http://blog.lvelyn.com/](http://blog.lvelyn.com/)
 
 ------

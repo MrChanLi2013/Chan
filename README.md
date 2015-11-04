@@ -26,21 +26,26 @@
 ### 技术 {#technical}
 
 1. Java
+1. Ruby
 1. SpringMvc,Hibernate
-1. Jsp,EL,JSTL
-1. Javascript,AJAX
+1. Jsp,EL,JSTL,Thymeleaf
+1. Javascript,Ajax
 1. Git,SVN
-1. html5 CSS3
-1. JQuery,JQueryUI
+1. html5,Css3,Angular
+1. JQuery,JQueryUI,Bootstrap
 1. SQL
 
 ------
 
 ### 工作经验 {#experience}
 
+平安数据科技(深圳)有限公司四川分公司
+: *Java高级软件工程师*
+  __2015/08 -- 至今__
+
 成都奥震电子技术有限公司
-: *Java软件工程师*
-  __2012/08 -- 至今__
+: *Java中级软件工程师*
+  __2012/08 -- 2015/08__
 
 成都蜀维科技有限公司
 : *Java软件工程师*
@@ -57,8 +62,8 @@
 大学本科
 :
   __2008年至2012年__
-  重庆三峡学院(信息与计算科学) 
-  
+  重庆三峡学院(信息与计算科学)
+
 ------
 
 ### Footer {#footer}

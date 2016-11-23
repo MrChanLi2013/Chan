@@ -21,15 +21,18 @@
 * Ruby On Rails开发
   : 接近两年Ruby On Rails开发经验。
 
+* 前端开发
+
 -------
 
 ### 技术 {#technical}
 
 1. Java
 1. Ruby
+1. Python
 1. SpringMvc,Hibernate
 1. Jsp,EL,JSTL,Thymeleaf
-1. Javascript,Ajax
+1. Javascript,Ajax,nodejs
 1. Git,SVN
 1. html5,Css3,Angular
 1. JQuery,JQueryUI,Bootstrap
@@ -39,20 +42,24 @@
 
 ### 工作经验 {#experience}
 
+新希望六和股份有限公司
+: *java高级软件工程师*
+  __2016/09 -- 至今__
+
 平安数据科技(深圳)有限公司四川分公司
 : *Java高级软件工程师*
-  __2015/08 -- 至今__
+  __2015/08 -- 2016/08__
 
 成都奥震电子技术有限公司
 : *Java中级软件工程师*
   __2012/08 -- 2015/08__
 
 成都蜀维科技有限公司
-: *Java软件工程师*
+: *Java初级软件工程师*
   __2012/06 -- 2012/08__
 
 中软国际（重庆ETC）
-: *Java软件工程师*
+: *Java实习工程师*
   __2011/12 -- 2012/05__
 
 ------

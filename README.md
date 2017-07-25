@@ -76,6 +76,6 @@
 ### Footer {#footer}
 
 Github: [https://github.com/MrChanLi2013/](https://github.com/MrChanLi2013/)  
-Blog: [http://blog.lvelyn.com/](http://blog.lvelyn.com/)
+Blog: [http://www.linuxhelp.cc/](http://www.linuxhelp.cc/)
 
 ------
